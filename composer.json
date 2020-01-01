@@ -1,5 +1,5 @@
 {
-    "name": "jacopo/laravel-import-export",
+    "name": "haggag/laravel-import-export",
     "description": "A package to import and export data in csv for Laravel",
     "version" : "0.1.0",
     "keywords": ["import","export","csv","database","laravel"],
